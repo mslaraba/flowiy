@@ -1,5 +1,6 @@
 # Flowiy
-CodeReason based report preview
+CodeReason based report preview.
+We all know that Reporting and printing in WPF is painful
 # Screenshot
 <img src="https://raw.githubusercontent.com/mslaraba/flowiy/master/screenshot.png"/>
 # Use this code as first preview
