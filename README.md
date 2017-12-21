@@ -2,7 +2,7 @@
 CodeReason based report preview.
 We all know that Reporting and printing in WPF is painful
 # Screenshot
-<img src="https://raw.githubusercontent.com/mslaraba/flowiy/master/screenshot.png"/>
+<img src="https://raw.githubusercontent.com/mslaraba/flowiy/master/screenshot2.png"/>
 # Use this code as first preview
 ```
 <FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
